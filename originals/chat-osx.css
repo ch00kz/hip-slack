@@ -6,7 +6,7 @@ p, div, .nameBlock p, .messageBlock p, .messageBlock div, .messageBlock pre {
     /* These are %-based to enable text size scaling options. The default text size is defined
         by a function on the WebPreferences object */
     font-size: 100%;
-    line-height: 143%;
+    line-height: 144%;
 }
 
 .messageBlock p {
